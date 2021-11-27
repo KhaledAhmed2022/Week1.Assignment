@@ -1,0 +1,42 @@
+# 01 HTML, CSS, and Git: Code Refactor
+
+
+## Refactoring
+
+**Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology.
+
+
+## Use Case
+
+A marketing agency wanted to refactor their website to make it more aceessible. An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is good for business&mdash;for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
+
+Refactoring should also take into consideration **TAM** which stands for "Total available Market" or "Total Addressable Market" to describe business opportunity associated with some action, product or service. Increasing your customer base represent larger opportunity to grow.
+
+
+## Acceptance Criteria
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+...
+
+
+
+## Base code
+
+Original web site content has been uploaded to my github Repository <KhaledAhmed2022/Weeks.Assignments> in original codebase folder, you can download the original codebase using this [URL] (https://github.com/KhaledAhmed2022/Weeks.Assignments )
+
+
+
+
+
