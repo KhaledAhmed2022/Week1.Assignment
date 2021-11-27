@@ -27,16 +27,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
 ...
 
 
-
-## Base code
-
-Original web site content has been uploaded to my github Repository <KhaledAhmed2022/Weeks.Assignments> in original codebase folder, you can download the original codebase using this [URL] (https://github.com/KhaledAhmed2022/Weeks.Assignments )
-
-
-
-
-
+:
