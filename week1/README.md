@@ -31,6 +31,6 @@ THEN I find a concise, descriptive title
 
 ## CodeBase
 
-Original Code is uplaoded to [Week1 Folder](./week1/codebase). The folder includes [original CSS](./week1/codebase/Develop/assets/css/style.css) and [original HTML file](./week1/codebase/Develop/index.html) and [original photos](./week1/codebase/Develop/assets/images)
+Original Code is uplaoded to [Week1 Folder](./week1/codebase). The folder includes [original CSS](./codebase/Develop/assets/css/style.css) and [original HTML file](./codebase/Develop/index.html) and [original photos](./codebase/Develop/assets/images)
 
 
