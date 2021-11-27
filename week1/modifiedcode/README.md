@@ -35,13 +35,13 @@ Original Code is uplaoded to [Week1 Folder](codebase). The folder includes [orig
 
 ## Modifications
 
-Transformation of the html code to a sementic one entails adding meaningful tag lik <header>, <article>, <aside> and <footer>. They will be incorparted into the html structure as parent container included some of the defined <div> elements that identiy styling. By doing so, we logically seperated the code into abstracted sections which will give meaning to sections of the page without losing any of the styles used.
+Transformation of the html code to a sementic one entails adding meaningful tags like \<header\>, \<article\>, \<aside\> and \<footer\>. They will be incorparted into the html structure as parent container included some of the defined \<div\> elements that identiy styling. By doing so, we logically seperated the code into abstracted sections which will give meaning to sections of the page without losing any of the styles used. 
 
 Meta decsription tag is used to enhance the chance of this website to appear in search engines based on keywords used in the description.
 
 
 ```
-- Addition of meta description tag to the html code
+- Addition of meta description tag to the html code to provide information about website content and increases the likelihood of appearing in search engines.
 - Inclusion of <header> tag before the first <div class="header"> to comply with semantic html
 - Inclusion of <footer> tag at the very end and modification of its heading to be h4
 ```
