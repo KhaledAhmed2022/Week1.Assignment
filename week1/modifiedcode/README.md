@@ -1,3 +1,4 @@
+
 ## 01 HTML, CSS, and Git: Code Refactor
 
 
@@ -45,6 +46,19 @@ Meta decsription tag is used to enhance the chance of this website to appear in 
 - Inclusion of <header> tag before the first <div class="header"> to comply with semantic html
 - Inclusion of <footer> tag at the very end and modification of its heading to be h4
 ```
+
+## Second set of Modifications
+
+```
+- Modification of title as well to reflect the main of business and its service offerings
+- After checking styling and orientation, removal of the <div class="header"> and the use of <header> tag instead
+- modification of sytle.css to change the .header to header since style is applied to an element not a class
+- Sub-Dividing the html body into <header> <main> and <footer> to compy with semantic html requirements
+- Inclusion of the benefit information into <aside> element since they can be taken out of this website and used anywhere else
+- to reduce the coding needed, grouping of some css selector together seeing that they share the same values:
+	- .benefit.lead , .benefit.brand and .benefit cost
+	- .serach-engine-optimization, .online-reputation-management and .social-media.marketing
+	- 
 
 
 
