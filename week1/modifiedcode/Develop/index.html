@@ -2,14 +2,19 @@
 <html lang="en-us">
 
 <head>
+    <!-- Addition of meta descripton, content and descriptive title-->
     <meta charset="UTF-8" name="description" content="This website outlines service offerings from Horiseon ranging from web optimization, online reputation management and Socail Media Marketing.">
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>HoriSeon Digial Services (Web optimization, online reputation management and Social Media Marketing</title>
+    <title>HoriSeon Digial Services ( Web optimization, online reputation management and Social Media Marketing )</title>
 </head>
 
+<!--Divison of the botdy into 4 main parts (header, main, aside and footer)-->
+
 <body>
+    <!--Removal of old div called header and addition of new element called header instead.-->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
+        <!--Removal of old div called nav and addition of another semantic element called nav for navigation bar.-->
           <nav> 
             <ul>
                 <li>
@@ -24,34 +29,42 @@
             </ul>
           </nav>
     </header>
+<!--Addition of new element called main-->
 <main>
-    <Section class="hero"></Section>
-
-        <div class="content">
-          <article class="search-engine-optimization">
+<!--Removal of old class called hero and inclusion of class hero inside a dedicataed section and inclusion of images here instead of style.css-->
+    <Section>
+        <img src="./assets/images/digital-marketing-meeting.jpg" class="hero" />
+    </Section>
+<!--Addition of new parent section called content combining all the main articles of the webpage-->
+        <Section class="content">
+<!--Removal of old div and usage of a meaningful article element hero-offerings including briefed description of each offering-->
+           <article class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
-          </article>
+           </article>
 
-          <article  id="online-reputation-management" class="online-reputation-management">
+           <article class="online-reputation-management">
             <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
-          </article>
-          <article id="social-media-marketing" class="social-media-marketing">
+           </article>
+
+           <article class="social-media-marketing">
             <img src="./assets/images/social-media-marketing.jpg" class="float-left" />
             <h2>Social Media Marketing</h2>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
             </p>
-        </article>
-      </div> 
-    <aside class="benefits">
+           </article>
+        </Section> 
+<!--Addition of new aside container element -offerings-benefits- in reference to secondary elements in the webpage-->
+    <aside class="offerings-benefits">
+        <!--sub-dividing using Article elements-->
         <article class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" />
@@ -76,7 +89,9 @@
     </aside>
 </main> 
 
+<!--Addition of new footer element instead of the old div called footer-->
     <footer class="footer">
+        <!--Modification of style to be h4 instead of h2-->
         <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
