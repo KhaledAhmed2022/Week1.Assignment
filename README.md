@@ -32,7 +32,13 @@ THEN I find a concise, descriptive title
 
 ## CodeBase
 
-Original Code is uplaoded to [Week1 Folder](../codebase). The folder includes [original CSS](../codebase/Develop/assets/css/style.css) and [original HTML file](../codebase/Develop/index.html) and [original photos](../codebase/Develop/assets/images)
+Original Code is uplaoded to [Week1 Assignment Folder](codebase). The folder includes [original CSS](codebase/Develop/assets/css/style.css) and [original HTML file](codebase/Develop/index.html) and [original photos](codebase/Develop/assets/images)
+
+
+## ModifedCode
+
+Modifications have been uploaded to [Develop folder](Develop) in the root directory in addition to the [webpage](index.html) and the [README file](README.md)
+
 
 ## Modifications
 
