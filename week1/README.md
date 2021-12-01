@@ -34,5 +34,5 @@ THEN I find a concise, descriptive title
 Original Code is uplaoded to [Week1 Folder](codebase). The folder includes [original CSS](codebase/Develop/assets/css/style.css) and [original HTML file](codebase/Develop/index.html) and [original photos](codebase/Develop/assets/images)
 
 ## ModifiedCodei
-Modified refactored code will be uploaded to [Week1 Folder](modifiedcode). The folde includes [modified CSS](modifiedcode/Develop/assets/css/style.css) and [modified smenatic html](modifiedcode/Develop/index.html) and markdown file (README.MD) that explains modificatins done to make the code more accessbile.
+Modified refactored code will be uploaded to [Week1 Folder](modifiedcode). The folde includes [modified CSS](modifiedcode/Develop/assets/css/style.css) and [modified semantic html](modifiedcode/Develop/index.html) and markdown file (README.MD) that explains modificatins done to make the code more accessbile.
 
