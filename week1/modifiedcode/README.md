@@ -42,7 +42,8 @@ Meta decsription tag is used to enhance the chance of this website to appear in 
 
 
 ```
-- Addition of meta description tag to the html code to provide information about website content and increases the likelihood of appearing in search engines.
+- Addition of meta description content to html code to provide information about website content and increases the likelihood of appearing in search engines.
+- Addition of a concise title description instead of website
 - Inclusion of <header> tag before the first <div class="header"> to comply with semantic html
 - Inclusion of <footer> tag at the very end and modification of its heading to be h4
 ```
@@ -60,6 +61,13 @@ Meta decsription tag is used to enhance the chance of this website to appear in 
 	- .serach-engine-optimization, .online-reputation-management and .social-media.marketing
 ```
 
-
-
+## Final set of modifications
+```
+- Inclusion of new semantic elements to the website like Article and aside instead of using generic div elements
+- addition of ALT attributes to all images in the mainpage.
+- Grouping of benefit-lead, benefit-brand and benefit-cost class selectors together since they share the same position and style settings
+- Grouping of search-engine-optimization, online-reputation-management and social-media-marketing class selector togther for the same reason listed in the previous point
+- Comments on the elements added, deleted and modified in index.html
+- commnets on class selectors, class deletion and elements insertion in style.css
+```
 
