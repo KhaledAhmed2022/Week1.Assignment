@@ -37,7 +37,7 @@ Original Code is uplaoded to [Week1 Assignment Folder](codebase). The folder inc
 
 ## ModifedCode
 
-Modifications have been uploaded to [Develop folder](Develop) in the root directory in addition to the [webpage](index.html) and the [README file](README.md)
+Modifications have been uploaded to [modifiedcode folder](modifiedcode) in the root directory in addition to the [webpage](index.html) and the README.md file you are reading right now.:
 
 
 ## Modifications
